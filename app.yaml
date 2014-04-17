@@ -1,4 +1,4 @@
-applicatinon: verdant-nova-552
+application: verdant-nova-552
 version: 22
 runtime: python27
 api_version: 1
